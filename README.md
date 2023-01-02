@@ -7,7 +7,7 @@ This repository is meant to be the root of the webpage, fork it and edit it with
 When done, `git clone` it into your CMS-designated webpage root folder.
 
 ### Regarding the JavaScript code
-All the JavaScript code is provided by [OpenAI's](https://github.com/openai) ChatGPT.\
+All the JavaScript code is provided by [OpenAI's](https://github.com/openai) ChatGPT.
 
 ### Origin
 Initially published [here](https://github.com/criccadamus/webpage). Reposted here for visibility purposes.
